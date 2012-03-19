@@ -1,0 +1,12 @@
+#banner_div {
+    background-color: black;
+    display: block;
+    height: 230px;
+}
+
+#banner_image {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
