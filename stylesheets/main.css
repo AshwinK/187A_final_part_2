@@ -964,3 +964,7 @@ select,
     padding-bottom: 20px;
 
 }
+
+#banner {
+    background-image: url('../images/logo.jpg');
+}
