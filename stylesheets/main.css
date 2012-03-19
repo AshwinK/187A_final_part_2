@@ -655,6 +655,7 @@ select,
         margin-bottom: 20px;
 	padding: 20px 20px 0px 20px;
 	background: #FFF;
+        width:500px;
 
 	border-radius: 5px;
 	-moz-border-radius: 5px;
@@ -686,7 +687,7 @@ select,
 #floating_news3 {
 	
         
-        margin-top: 20px;
+        margin-top: 30px;
         margin-bottom: 20px;
 	padding: 20px 20px 0px 20px;
 	background: #FFF;
@@ -701,18 +702,12 @@ select,
 }
 
 #news_bar_top {
-    margin-left: 190px;
-    margin-top: 20px;
-    width: 931px;
-    background: #E34234;
-    	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	
-	-webkit-box-shadow:0 0 10px #666666; 
-	-moz-box-shadow: 0 0 10px #666666; 
-	box-shadow:0 0 10px #666666; 
-
+    position:absolute;
+    
+    margin-left: 420px;
+    margin-top: 0px;
+    width: 600px;
+    background: black;
 }
 
 #news_link:hover {
@@ -955,11 +950,11 @@ select,
     margin-left: 30px;
 }
 
-.aboutuofl {
-    padding: 10px 20px 10px 20px;
-	background: #FFF;
+.goddamn187 {
+    padding: 10px  10px 10px 10px;
+	background: white;
     margin-top: 51px;
-    border-top: 6px solid rgb(255, 0, 0);
+    margin-left: 195px;
     width: 588px;
 }
 
