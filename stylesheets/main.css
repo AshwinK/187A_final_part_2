@@ -393,3 +393,37 @@ body {
 #fixed_sidenav {
     position: fixed;
 }
+
+
+#funstuff {
+    background-image: url('../images/xboxwallpaper.jpg');
+    background-position: center;
+}
+
+#left_para {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 105px;
+    margin-bottom: 50px;
+    margin-left: 60px;
+}
+
+#right_para {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 105px;
+    margin-bottom: 50px;
+    margin-right: 60px;
+}
+
+#footsies {
+    margin-left: 60px;
+    
+    border-top: 1px solid black;
+    width: 822px;
+}
+
+#footsy {
+    background-color: #E5E5E5;
+    
+}
